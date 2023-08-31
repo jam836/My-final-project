@@ -1,0 +1,28 @@
+
+         nav{
+             background: lightgreen;
+             width: 20em;
+         }
+
+         img{
+             width: 400px;
+             border: 5px solid black;
+             padding: 10px;
+         }
+
+        article{
+            margin-left: 40px;
+         }
+
+         h1{
+             background: #4c6d48;
+             text-align:center;
+           margin:0px;
+         }
+       nav ul{
+            padding-left: 25px;
+         }
+       body {
+         margin: 0px;
+       }
+     
